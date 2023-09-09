@@ -5,6 +5,9 @@ Java SIP MRCP 是一个基于 Java 的项目，实现了 SIP 协议和 MRCPv2 �
 
 你可以基于此实现支持语音转写的客户端，
 你也可基于此实现 java 版本 mrcp-server
+
+![](audio/mrcp.gif)
+
 ## 功能特点
 
 - 支持 SIP 协议：实现了 SIP 协议的功能，包括呼叫建立、发送和接收 SIP 消息等。
