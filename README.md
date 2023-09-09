@@ -47,6 +47,11 @@ Java SIP MRCP 是一个基于 Java 的项目，实现了 SIP 协议和 MRCPv2 �
 
 ```$xslt
 
+
+https://github.com/laoyin/java-sip-mrcp/blob/master/src/main/java/com/mrcp/yxp/protocol/MrcpJavaClient.java
+
+src/main/java/com/mrcp/yxp/protocol/MrcpJavaClient.java
+
 示例就是MrcpJavaClient
 
 初始化 sipagent。
