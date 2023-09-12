@@ -16,6 +16,7 @@ public class CustomConfig implements Config {
     private PipedOutputStream outStream;
     private ArrayBlockingQueue asrQueue;
     private int sipPort;
+    private int rtpPort;
 
     public CustomConfig(String file, String clientip){
         this.mediaFile = file;
@@ -102,6 +103,10 @@ public class CustomConfig implements Config {
 
     @Override
     public int getRtpPort() {
+
+        if (rtpPort!=0){
+            return rtpPort;
+        }
         return 0;
     }
 
@@ -165,7 +170,7 @@ public class CustomConfig implements Config {
 
     @Override
     public void setRtpPort(int i) {
-
+        rtpPort = i;
     }
 
     @Override

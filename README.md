@@ -8,6 +8,9 @@ Java SIP MRCP 是一个基于 Java 的项目，实现了 SIP 协议和 MRCPv2 �
 
 ![](audio/mrcp.gif)
 
+
+mrcp协议介绍[https://lowbibi.com/mrcp/]
+
 ## 功能特点
 
 - 支持 SIP 协议：实现了 SIP 协议的功能，包括呼叫建立、发送和接收 SIP 消息等。
