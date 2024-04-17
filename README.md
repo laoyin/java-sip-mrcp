@@ -3,6 +3,13 @@
 如果您有mrcp-server需求，可以在此申请[https://lowbibi.com/mrcp-server-ban-ben-fa-bu/]
 基于mrcp-server的智能问答，b站演示视频：[https://www.bilibili.com/video/BV1Ea4y197Kc/]
 
+你可以线上体验：[https://lowbibi.com/yinphone/#/call/call]
+账号 zx1234      zx1234
+分机 1001  密码 yin-123
+拨号 1234
+
+
+
 Java SIP MRCP 是一个基于 Java 的项目，实现了 SIP 协议和 MRCPv2 协议，用于实时语音转写（ASR）的媒体传输。
 
 
